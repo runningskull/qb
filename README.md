@@ -1,6 +1,9 @@
 QB - A job queue for node.js.
 ===============================================
 
+### Do not use. Succeeded by https://github.com/Rafflecopter/node-simpleq
+
+
 Uses redis for persistence, and msgpack for serialization.
 Intuitive, flexible, & fast.
 
